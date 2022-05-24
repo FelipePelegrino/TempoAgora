@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Applications -->
+    <color name="colorLauncherIconBackground">#007DB9</color>
+
+    <!-- Color Names -->
+    <color name="colorLochmara">#007DB9</color>
+    <color name="colorBahamaBlue">#005e98</color>
 </resources>
